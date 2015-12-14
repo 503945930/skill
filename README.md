@@ -53,13 +53,25 @@
 * 官方文档 [主页](http://mp.weixin.qq.com/wiki/home/)
 * nodejs [Webot](https://github.com/node-webot)
 * php-sdk [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk)
+* net-sdk [Weixin.SDK](https://github.com/night-king/weixinSDK/tree/master/Deepleo.Weixin.SDK)
 
-
-###Oauth2
+###Oauth2.0
+* [oauth2orize](https://github.com/jaredhanson/oauth2orize)
 
 
 ### 其他
 
 * Web服务器: [nginx](http://wiki.nginx.org/Main) & [iis]() & [apache](http://www.apache.org/)
 * 源码管理工具: [git](http://www.bootcss.com/p/git-guide/)
+* 服务器系统 ：[windows]() & [CentOS](https://www.centos.org/) & [Ubuntu](www.ubuntu.org.cn) 
 
+
+
+
+
+###阅读
+
+* [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+* [RESTful Web](http://segmentfault.com/a/1190000000489681)
+* [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+* [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
